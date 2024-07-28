@@ -1,0 +1,17 @@
+@import './TaskForm.css';
+@import './TaskList.css';
+@import './TaskItem.css';
+
+.app {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  background: #F9F0DA;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}

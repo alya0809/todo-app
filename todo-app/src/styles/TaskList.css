@@ -1,0 +1,29 @@
+.task-list {
+    margin-top: 20px;
+    background: #F9F0DA;
+  }
+  
+  .task-list .task-list-controls {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    background: #F9F0DA;
+  }
+  
+  .task-list .task-list-controls label {
+    margin-right: 10px;
+  }
+  
+  .task-list .task-list-controls select {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background: #F9F0DA;
+  }
+  
+  .task-list ul {
+    list-style: none;
+    padding: 0;
+    background: #F9F0DA;
+  }
+  
